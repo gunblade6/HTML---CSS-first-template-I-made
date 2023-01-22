@@ -1,4 +1,4 @@
-# Elzero - HTML - CSS template 3
+# Elzero - HTML - CSS template 1
 
 This is a template from [Elzero Web School](https://elzero.org/).
 
